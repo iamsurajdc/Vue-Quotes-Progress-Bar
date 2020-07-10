@@ -1,26 +1,18 @@
-# hello-world
+![Vue-Progress Bar Quotes Machine][logo]
 
-## Project setup
-```
-yarn install
-```
+##Vue-Quotes-Progress-Bar :zap:
 
-### Compiles and hot-reloads for development
+## Project setup :seedling:
 ```
-yarn serve
+npm install
 ```
 
-### Compiles and minifies for production
+### Compiles and hot-reloads for development :large_blue_circle:
 ```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
+npm run serve
 ```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# Vue-Quotes-Progress-Bar
-# Vue-Quotes-Progress-Bar
+
+[logo]: https://github.com/iamsurajdc/Vue-Quotes-Progress-Bar/src/assets/readme_logo.png.png
