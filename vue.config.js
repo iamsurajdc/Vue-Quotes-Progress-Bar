@@ -1,4 +1,6 @@
 // vue.config.js
 module.exports = {
-    publicPath: '/Vue-Quotes-Progress-bar/'
+    publicPath: process.env.NODE_ENV === 'production'
+    ? './'
+    : '/'
     }
