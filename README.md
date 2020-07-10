@@ -1,6 +1,11 @@
-![Vue-Progress Bar Quotes Machine][logo]
+## Vue-Quotes-Progress-Bar :zap: 
 
-##Vue-Quotes-Progress-Bar :zap:
+---
+
+![Vue-Progress Bar Quotes Machine][logo]
+</br>
+
+</br>
 
 ## Project setup :seedling:
 ```
