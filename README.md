@@ -1,4 +1,4 @@
-## Vue-Quotes-Progress-Bar :zap: 
+## [Vue-Quotes-Progress-Bar](https://iamsurajdc.js.org/Vue-Quotes-Progress-Bar/) :zap: 
 
 ---
 
@@ -6,6 +6,8 @@
 </br>
 
 </br>
+
+## [Live Demo:bomb:](https://iamsurajdc.js.org/Vue-Quotes-Progress-Bar/)
 
 ## Project setup :seedling:
 ```
